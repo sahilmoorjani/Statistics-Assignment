@@ -1,0 +1,52 @@
+Ques:1 For the given data find mean, standard deviation and variance in excel.
+
+ANS:
+
+-> Mean 
+
+The mean is the average value of a dataset.
+It is calculated by adding all the values and dividing by the total number of value
+
+-> Standard Deviation
+
+Standard deviation measures how far the data values are spread from the mean.
+
+A small standard deviation means the values are close to the mean.
+A large standard deviation means the values are widely spread.
+
+->Variance
+
+Variance measures the average squared difference between each value and the mean.
+
+Ques:2 From the given data, take a sample and find mean, standard deviation and variance for population in excel.
+     Also, validate Central Limit Theorem in excel and python as discussed in the class.
+
+Ans:
+
+Ques:3 Theory Task: Estimate mean for the problem statement discussed by your mentor. 
+
+Ans:
+Mean Estimation
+
+Mean estimation is a statistical method used to determine the average value of a population based on sample data.
+It helps in predicting the central tendency of the entire population without analyzing every individual observation.
+
+Ques:4 Theory Task: Validate Hypothesis for the problem statement discussed by your mentor.
+
+Ans:
+Hypothesis Testing
+
+Hypothesis testing is a statistical method used to make decisions about a population based on sample data.
+It helps determine whether there is enough evidence to support a specific claim or assumption.
+
+A hypothesis is generally divided into two parts:
+
+*Null Hypothesis
+*Alternative Hypothesis
+
+Ques:5 Perform One-way and two-way ANOVA on the dataset as discussed in class using formulae as well as ANOVA
+function in excel.
+
+Ans:
+ANOVA (Analysis of Variance) is a statistical method used to compare the means of multiple groups and determine whether there is a 
+significant difference among them.
